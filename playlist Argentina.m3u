@@ -605,6 +605,17 @@ https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/15905984073899.png" group-title="Deportes" ch-number="106" type="channel",ESPN 6
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+
+
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/12041360073463.png" group-title="Deportes" ch-number="107" type="channel",ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="FOX Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes 2" ch-number="111" type="channel",FOX Sports
 http://181.10.123.154:14000/play/a07j/index.m3u8
 
@@ -680,6 +691,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
 https://sae11.playlist.ttvnw.net/v1/playlist/CtsGdGRMEveeCDuts01eu-dlnhwyej9xX3b2TfMJdmalqXSIaJg1Mer-E5ykUd4i7WbxE90vevm_iRdCVeEchleeDVbd5Py78253kdcbZ-riLoTE7leJ3Vwo1X48RALJCqqn4YwzRANeqEicqj1Ai3ehcNDeZoSMlCQUkhoEapkfNLcAs08Eg_nTfO2B-Y80OZZqtGFV7MMwQXvnLGFcC8lG8G62tNQfyBwzTGkKUzjwvE28iIcSAVOwr624Np0bgWFHZjxwf5sOT_swbaE9IECFiwiF-m7v5Q-VqBjO9fAKtNAMhdvvWp7HVU5YBhWDBNK9aG5aRYY7rNDOcXH1eVQmlt6zudLxe8WuNV-3prqOkgBhPlwYXi6WPNAF76R9-tAsnPw8_tHFiKupoylHqFUOGMSZYG-UV2zfVecaBG71xn0unoJNUhHH49uCiPHKq83AtV_IoqEtWQJ3HD-9PLTCBRAZnxBXmyqYGvA1YHNYYpyjLKuFEBbL5RGqu2w8sA-7swEK0BlUi2vJkfTxWy8Y-nRgnNE7WVyfc02BlpRKY4bfM39Ka9Rfqhml_uoHtM1QmA9D5I0f-Ysv_yRwzNs37rT_pmkuqrKj7GuQxhBQ6onjHyOC6ZXwBc1zRa-ilgr4wuIL0Jg5i6WODlEXKFZlyvmquYxbrS-8QYVJMuAK99WYhytULVV54ifNlb4OLVMYPhgzEzXNIZVDBkbFWgMDDW8Kv5VF0SqCT7iEw1oISJoyNA24_PsFOV3AT29WGoGb1R2pRhmE1_wopoaugvp7FLU_X636PzmQvUvsNKoEvd8pjWTUvUr6SH1-zz9wErR3QsbMbkZy7VB5D0eIFGLTbcnW-nDF6UfmUKjX-R6elvYJpWZZevuWtg8PTiGDpRCXRRiSmmLeb1qjDZCRuo1v3xSotEhjmoGW4ZCXe01PlnGxkGe5JpZmq9UOSvjpOKRsDwc4d7hVdxgjO0v2W-gUMbth4AU94fdZnUCtD0EVFobjrNzm4tJPIu47Ulf1kQAaRz2dT8y1nNeZLzRU2WtdcG2jO36GIgiOK4hNXIBOv_QZ--ITYXcv4wChvVS62XtqBHHsZm473dSesEsTl0E0lNBwmyyXxtAZIwhZq6ertfniAuu8YrauZZGDWxoMS4K7OW17epp8G2FGIAEqCXVzLWVhc3QtMjCRDQ.m3u8
+
 
 
 
