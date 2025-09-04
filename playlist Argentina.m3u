@@ -745,6 +745,8 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Radio", LATINA RADIO FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 
 
