@@ -735,15 +735,17 @@ https://ch12-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="EVENTOS TyC PLAY", EVENTOS TyC PLAY 11
 https://ch12-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
  
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="EVENTOS TyC PLAY", EVENTOS TyC PLAY 12
 https://ch02-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="Radio", LA 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="NACIONALES", LATINA RADIO FM 101.1
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Radio", LATINA RADIO FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
  
+
 
 
 
