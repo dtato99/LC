@@ -670,9 +670,7 @@ http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 https://deportes.ksdjugfsddeports.com:9092/MTg2LjEyMi4xMC42Mw==/60_.m3u8?token=OuJQq7TEsE04sTPy2bI-dQ&expires=1757021968
 
 #EXTINF:-1 tvg-name="DSPORTS 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/dtato99/Logos/refs/heads/main/600.png" group-title="Deportes 2",DSPORTS 2
-https://deportes2.ksdjugfsddeports.com:9091/17_/tracks-v1a1/mono.ts.m3u8?remote=186.122.10.63&token=627dc05d11419957bd946038d95b960df88a0c58-22c378538eec6bb808fe991eb1ddd5f5-1757028503-1757006903
-
-
+https://deportes2.ksdjugfsddeports.com:9091/17_/index.m3u8?token=c97470054b2279f9d0a0419f41fad0723f48fe51-9039ed615c369b6179709879deabf135-1757032621-1757011021&remote=186.122.10.63
 
 #EXTINF:-1 tvg-name="DSPORTS 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/dtato99/Logos/refs/heads/main/600.png" group-title="Deportes 2",DSPORTS 2
 http://179.63.6.17:9000/play/a08c
@@ -750,6 +748,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
 
 
 
