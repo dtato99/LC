@@ -520,6 +520,17 @@ http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Flow_Music_3.m
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://cdn.m3u.cl/logo/292_Telemax.png" group-title="Argentina 2",Telemax
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+
 #EXTINF:-1 tvg-id="America.uy" tvg-name="America.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="Argentina 2" ch-number="102" type="channel",América
 http://181.10.123.154:14000/play/a055/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -779,6 +790,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
 
 
 
